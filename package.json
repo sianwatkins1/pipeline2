@@ -1,0 +1,23 @@
+{
+  "name": "pipeline2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sianwatkins1/pipeline2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sianwatkins1/pipeline2/issues"
+  },
+  "homepage": "https://github.com/sianwatkins1/pipeline2#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
